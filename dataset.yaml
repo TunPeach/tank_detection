@@ -1,0 +1,7 @@
+train: /home/jupyternb/tanks/test
+test: /home/jupyternb/tanks/test
+val: /home/jupyternb/tanks/valid
+
+
+nc: 1
+names: ['tank']
